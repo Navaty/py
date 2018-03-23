@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  assignet_to: 1
+  assignet_by: 1
+  assignet_on: 2018-03-23
+  complited_by: 1
+  created_by: 1
+  project: one
+
+two:
+  title: MyString
+  description: MyText
+  assignet_to: 1
+  assignet_by: 1
+  assignet_on: 2018-03-23
+  complited_by: 1
+  created_by: 1
+  project: two
